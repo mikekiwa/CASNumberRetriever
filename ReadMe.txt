@@ -2,7 +2,7 @@
 
 1. **Set Up a Virtual Environment**:
    - Open a terminal or command prompt.
-   - Navigate to the directory where you saved `cas_retriever.py` and `requirements.txt`.
+   - Navigate to the directory where you saved `casretrieverwithprogressbar.py` and `requirements.txt`.
    - Create a virtual environment:
      
 bash
@@ -40,4 +40,4 @@ bash
      
 
 ### Summary
-This setup allows you to transport the code easily. You can share the `cas_retriever.py` and `requirements.txt` files, and anyone can run the application by following the instructions to set up a virtual environment and install the necessary dependencies. This ensures that the application runs consistently across different environments.
+This setup allows you to transport the code easily. You can share the `casretrieverwithprogressbar.py` and `requirements.txt` files, and anyone can run the application by following the instructions to set up a virtual environment and install the necessary dependencies. This ensures that the application runs consistently across different environments.
